@@ -17,4 +17,4 @@ This is a Python-based Face Recognition System designed to identify and verify i
 - **Keras** for building neural networks
 - **NumPy & Pandas** for data manipulation
 - **Scikit-learn** for machine learning tasks
-- **Flask** for web-based API (optional)
+- **Kotlin** for android application
